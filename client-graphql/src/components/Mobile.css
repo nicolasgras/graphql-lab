@@ -1,0 +1,18 @@
+.mobile-user {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #bbb;
+    background-color: #eee;
+    text-align: left;
+    display: inline-block;
+}
+  
+.mobile-user span {
+    font-size: 1.0em;
+    text-decoration: none;
+    color: #333;
+}
+
+.mobile-user div {
+    font-size: 0.8em;
+}
